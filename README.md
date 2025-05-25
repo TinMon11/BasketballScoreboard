@@ -17,6 +17,9 @@ A modern and interactive basketball scoreboard built with React and Vite. This a
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Material-UI](https://mui.com/) - React UI framework
 
+## 🌐 Live Demo
+
+The application is deployed and available at: [Basketball Scoreboard](https://basketscoreboardtincho.netlify.app/)
 
 ## 🚀 Getting Started
 
